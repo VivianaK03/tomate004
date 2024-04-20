@@ -1,0 +1,1052 @@
+Tipo de suelo,pH del suelo,Necesidades de riego (ml/semana),Temperatura (C),Humedad (%),Fertilizacion (g/planta),Enfermedades,Plagas,Altura de la planta (cm),Peso del fruto (g),Color del fruto,Rendimiento (frutos/planta),Estado de salud,Rango Estado De Salud
+Arenoso,6.2,320,26,63,75,No,No,62,210,Rojo,16,En riesgo,0.36
+Arcilloso,7.3,420,23,72,60,Si,No,58,180,Rojo,13,En riesgo,0.43
+Limoso,5.3,230,29,53,35,No,Si,45,140,Amarillo,9,Enfermo,0.29
+Arenoso,5.8,370,25,66,80,No,No,67,230,Rojo,18,Enfermo,0.34
+Arcilloso,7.7,470,21,76,40,Si,Si,32,90,Naranja,4,En riesgo,0.44
+Limoso,4.8,180,31,51,50,No,No,53,160,Rojo,11,Enfermo,0.27
+Arenoso,6.4,340,27,64,60,No,No,64,220,Rojo,17,Saludable,0.39
+Arcilloso,7.1,410,24,73,80,Si,No,60,190,Rojo,14,En riesgo,0.44
+Limoso,5.4,240,28,54,45,No,Si,47,150,Amarillo,10,Enfermo,0.29
+Arenoso,6.1,360,26,65,90,No,No,69,240,Rojo,19,En riesgo,0.37
+Arcilloso,7.6,460,22,75,70,Si,Si,37,110,Naranja,6,En riesgo,0.45
+Limoso,5.2,220,30,52,40,No,No,51,130,Rojo,8,Enfermo,0.29
+Arenoso,6.3,330,27,64,70,No,No,65,210,Rojo,17,Saludable,0.39
+Arcilloso,7.2,430,23,74,55,Si,No,55,180,Rojo,13,En riesgo,0.44
+Limoso,5.5,250,29,53,50,No,Si,48,160,Amarillo,10,Enfermo,0.3
+Arenoso,6,350,28,66,85,No,No,70,250,Rojo,20,Saludable,0.4
+Arcilloso,7.5,450,22,76,65,Si,Si,38,120,Naranja,5,En riesgo,0.45
+Limoso,5.7,270,31,55,60,No,No,52,140,Rojo,9,Enfermo,0.35
+Arenoso,6.6,380,27,65,75,No,No,68,230,Rojo,18,Saludable,0.41
+Arcilloso,7.4,470,23,75,60,Si,No,57,190,Rojo,14,En riesgo,0.46
+Limoso,5.6,260,29,54,55,No,Si,50,150,Amarillo,11,Enfermo,0.31
+Arenoso,6.7,390,28,66,80,No,No,71,240,Rojo,19,Saludable,0.44
+Arcilloso,7.3,480,22,76,70,Si,Si,40,100,Naranja,6,En riesgo,0.44
+Limoso,5.8,280,31,55,65,No,No,54,160,Rojo,10,En riesgo,0.35
+Arenoso,6.8,400,27,65,90,No,No,69,250,Rojo,20,Saludable,0.43
+Arcilloso,7.2,460,23,75,75,Si,No,35,110,Naranja,4,En riesgo,0.44
+Limoso,5.9,290,30,56,70,No,Si,49,170,Amarillo,12,En riesgo,0.35
+Arenoso,6.9,410,28,66,95,No,No,72,260,Rojo,21,Saludable,0.46
+Arcilloso,7.1,470,22,76,80,Si,Si,36,120,Naranja,5,En riesgo,0.42
+Limoso,6,300,31,57,75,No,No,55,180,Rojo,11,Saludable,0.38
+Arenoso,7,420,27,65,100,No,No,70,260,Rojo,22,Saludable,0.44
+Arcilloso,7.2,480,23,75,85,Si,No,34,110,Naranja,4,En riesgo,0.44
+Limoso,6.1,310,30,58,80,No,Si,48,170,Amarillo,13,En riesgo,0.38
+Arenoso,7.1,430,28,66,105,No,No,71,270,Rojo,23,Saludable,0.47
+Arcilloso,7.3,490,22,76,90,Si,Si,33,100,Naranja,5,En riesgo,0.44
+Limoso,6.2,320,31,59,85,No,No,56,190,Rojo,12,Saludable,0.4
+Arenoso,7.2,440,27,65,110,No,No,72,270,Rojo,24,Saludable,0.45
+Arcilloso,7.4,500,23,75,95,Si,No,32,120,Naranja,4,En riesgo,0.46
+Limoso,6.3,330,30,60,90,No,Si,47,200,Amarillo,14,En riesgo,0.41
+Arenoso,7.3,450,28,66,115,No,No,73,280,Rojo,25,Saludable,0.48
+Arcilloso,7.5,510,22,76,100,Si,Si,31,130,Naranja,5,En riesgo,0.45
+Limoso,6.4,340,31,61,95,No,No,58,210,Rojo,13,Saludable,0.43
+Arenoso,7.4,460,27,65,120,No,No,74,280,Rojo,26,Saludable,0.46
+Arcilloso,7.6,520,23,75,105,Si,No,30,140,Naranja,4,En riesgo,0.47
+Limoso,6.5,350,30,62,100,No,Si,46,220,Amarillo,15,En riesgo,0.43
+Arenoso,6,300,25,60,50,No,No,50,150,Rojo,10,Enfermo,0.32
+Arcilloso,7,400,22,70,75,Si,No,65,200,Rojo,15,En riesgo,0.39
+Limoso,5,250,28,55,25,No,Si,40,120,Amarillo,8,Enfermo,0.28
+Arenoso,6,350,24,65,100,No,No,70,250,Rojo,20,Enfermo,0.33
+Arcilloso,7,450,20,75,50,Si,Si,35,100,Naranja,5,En riesgo,0.38
+Limoso,5,200,30,50,75,No,No,55,180,Rojo,12,Enfermo,0.27
+Arenoso,6,320,26,63,75,No,No,62,210,Rojo,16,En riesgo,0.35
+Arcilloso,7,420,23,72,60,Si,No,58,180,Rojo,13,En riesgo,0.41
+Limoso,5,230,29,53,35,No,Si,45,140,Amarillo,9,Enfermo,0.27
+Arenoso,5,370,25,66,80,No,No,67,230,Rojo,18,Enfermo,0.29
+Arcilloso,7,470,21,76,40,Si,Si,32,90,Naranja,4,En riesgo,0.4
+Limoso,4,180,31,51,50,No,No,53,160,Rojo,11,Enfermo,0.23
+Arenoso,6,340,27,64,60,No,No,64,220,Rojo,17,En riesgo,0.37
+Arcilloso,7,410,24,73,80,Si,No,60,190,Rojo,14,En riesgo,0.44
+Limoso,5,240,28,54,45,No,Si,47,150,Amarillo,10,Enfermo,0.27
+Arenoso,6,360,26,65,90,No,No,69,240,Rojo,19,En riesgo,0.36
+Arcilloso,7,460,22,75,70,Si,Si,37,110,Naranja,6,En riesgo,0.41
+Arenoso,6.7,390,25,63,60,No,No,61,200,Rojo,15,Saludable,0.38
+Arcilloso,7.1,410,24,72,55,Si,No,57,190,Amarillo,12,En riesgo,0.44
+Limoso,5.9,270,29,54,45,No,Si,43,130,Naranja,8,Enfermo,0.33
+Arenoso,6.4,360,26,67,70,No,No,68,220,Rojo,18,Saludable,0.4
+Arcilloso,7.8,480,21,77,50,Si,Si,33,100,Naranja,5,En riesgo,0.45
+Limoso,5.7,190,31,52,55,No,No,52,150,Rojo,10,Enfermo,0.33
+Arenoso,6.6,330,27,65,75,No,No,67,230,Rojo,17,Saludable,0.41
+Arcilloso,7.3,430,22,74,85,Si,No,63,210,Amarillo,14,En riesgo,0.42
+Limoso,5.5,240,28,56,40,No,Si,49,170,Rojo,11,Enfermo,0.31
+Arenoso,6.2,380,26,64,80,No,No,70,250,Rojo,19,En riesgo,0.37
+Arcilloso,7.6,460,23,75,65,Si,Si,38,120,Naranja,6,En riesgo,0.47
+Limoso,5.8,200,30,53,50,No,No,50,160,Amarillo,9,Enfermo,0.33
+Arenoso,6.5,340,27,66,90,No,No,66,240,Rojo,20,Saludable,0.41
+Arcilloso,7.2,420,24,73,60,Si,No,59,200,Rojo,16,En riesgo,0.45
+Limoso,5.6,250,29,55,35,No,Si,46,140,Naranja,7,Enfermo,0.32
+Arenoso,6.3,370,25,65,85,No,No,69,230,Rojo,18,En riesgo,0.37
+Arcilloso,7.7,470,22,76,70,Si,Si,37,110,Amarillo,13,En riesgo,0.46
+Limoso,5.4,210,31,51,60,No,No,51,170,Rojo,10,Enfermo,0.3
+Arenoso,6.8,400,26,66,95,No,No,70,260,Rojo,21,Saludable,0.42
+Arcilloso,7.4,450,23,75,55,Si,No,56,190,Naranja,15,En riesgo,0.46
+Limoso,6.1,290,30,57,70,No,Si,48,160,Rojo,12,En riesgo,0.37
+Arenoso,7,430,27,65,100,No,No,71,270,Rojo,22,Saludable,0.44
+Arcilloso,7.5,480,22,76,75,Si,Si,35,120,Amarillo,17,En riesgo,0.45
+Limoso,6,230,31,52,65,No,No,53,180,Rojo,11,Enfermo,0.35
+Arenoso,6.9,410,26,67,105,No,No,68,280,Rojo,23,Saludable,0.43
+Arcilloso,7.3,450,23,75,60,Si,No,62,220,Naranja,18,En riesgo,0.45
+Limoso,6.2,300,30,58,75,No,Si,47,150,Rojo,13,En riesgo,0.39
+Arenoso,7.1,440,27,65,110,No,No,72,270,Rojo,24,Saludable,0.45
+Arcilloso,7.6,490,22,76,80,Si,Si,36,130,Amarillo,19,En riesgo,0.45
+Limoso,6.3,260,31,53,70,No,No,54,190,Rojo,12,En riesgo,0.37
+Arenoso,7.2,450,26,66,115,No,No,73,280,Rojo,25,Saludable,0.44
+Arcilloso,7.5,500,23,75,65,Si,No,33,110,Naranja,20,En riesgo,0.46
+Limoso,6.4,310,30,59,80,No,Si,49,170,Rojo,14,En riesgo,0.4
+Arenoso,7.3,460,27,65,120,No,No,74,280,Rojo,26,Saludable,0.46
+Arcilloso,7.7,510,22,76,85,Si,No,34,120,Amarillo,21,En riesgo,0.46
+Limoso,6.5,320,31,60,90,No,Si,48,160,Rojo,15,En riesgo,0.43
+Arenoso,7.4,470,26,67,125,No,No,75,290,Rojo,27,Saludable,0.46
+Arcilloso,7.8,520,23,75,70,Si,Si,32,110,Naranja,22,En riesgo,0.48
+Limoso,6.6,340,30,58,85,No,No,55,200,Rojo,13,Saludable,0.41
+Arenoso,7.5,480,27,66,130,No,No,76,290,Rojo,28,Saludable,0.48
+Arcilloso,7.6,530,22,76,90,Si,Si,31,100,Amarillo,23,En riesgo,0.45
+Limoso,6.7,350,31,61,95,No,Si,47,170,Rojo,16,En riesgo,0.45
+Arenoso,6.9,360,26,68,80,No,No,64,220,Rojo,16,Saludable,0.44
+Arcilloso,7.3,440,23,74,65,Si,No,59,210,Amarillo,13,En riesgo,0.44
+Limoso,6,270,30,56,55,No,Si,43,160,Naranja,10,En riesgo,0.36
+Arenoso,6.5,370,27,67,70,No,No,70,240,Rojo,18,Saludable,0.42
+Arcilloso,7.9,500,21,78,50,Si,Si,38,120,Naranja,7,En riesgo,0.46
+Limoso,5.9,210,31,52,65,No,No,51,170,Rojo,11,Enfermo,0.34
+Arenoso,6.6,380,26,66,85,No,No,69,230,Rojo,19,Saludable,0.4
+Arcilloso,7.2,460,23,73,75,Si,No,64,220,Rojo,15,En riesgo,0.43
+Limoso,5.8,240,29,54,50,No,Si,47,150,Amarillo,12,Enfermo,0.32
+Arenoso,6.4,350,27,65,80,No,No,67,250,Rojo,20,Saludable,0.4
+Arcilloso,7.8,480,22,75,70,Si,Si,34,110,Naranja,6,En riesgo,0.46
+Limoso,6,220,30,53,60,No,No,53,180,Rojo,9,Enfermo,0.34
+Arenoso,6.7,390,25,67,90,No,No,66,230,Rojo,17,Saludable,0.4
+Arcilloso,7.1,420,24,72,70,Si,No,60,200,Rojo,14,En riesgo,0.44
+Limoso,5.7,260,28,57,45,No,Si,48,160,Naranja,11,Enfermo,0.32
+Arenoso,6.3,380,26,66,85,No,No,68,240,Rojo,18,Saludable,0.39
+Arcilloso,7.5,460,23,74,65,Si,No,62,210,Naranja,13,En riesgo,0.46
+Limoso,5.6,230,29,55,40,No,Si,46,140,Amarillo,10,Enfermo,0.32
+Arenoso,6.8,400,25,68,95,No,No,65,250,Rojo,19,Saludable,0.41
+Arcilloso,7,440,24,73,70,Si,No,61,210,Rojo,15,En riesgo,0.44
+Limoso,5.9,250,28,56,50,No,Si,49,170,Naranja,12,Enfermo,0.33
+Arenoso,6.6,370,26,67,90,No,No,68,240,Rojo,18,Saludable,0.41
+Arcilloso,7.4,450,23,75,70,Si,Si,35,130,Naranja,8,En riesgo,0.46
+Limoso,5.8,240,29,54,45,No,Si,47,150,Amarillo,11,Enfermo,0.32
+Arenoso,6.5,360,28,66,90,No,No,65,240,Rojo,17,Saludable,0.43
+Arcilloso,7.3,430,22,74,65,Si,No,60,200,Amarillo,14,En riesgo,0.42
+Limoso,5.7,250,28,56,50,No,Si,49,160,Naranja,10,Enfermo,0.32
+Arenoso,6.4,350,27,65,80,No,No,67,250,Rojo,20,Saludable,0.4
+Arcilloso,7.7,470,23,75,65,Si,Si,37,120,Naranja,6,En riesgo,0.47
+Limoso,5.9,220,30,53,60,No,No,52,170,Rojo,9,Enfermo,0.34
+Arenoso,6.3,370,25,67,85,No,No,64,230,Rojo,17,Saludable,0.38
+Arcilloso,7.2,450,24,73,75,Si,No,61,220,Rojo,15,En riesgo,0.45
+Limoso,5.6,240,28,54,50,No,Si,46,150,Amarillo,12,Enfermo,0.3
+Arenoso,6.7,380,26,66,90,No,No,68,240,Rojo,18,Saludable,0.41
+Arcilloso,7.1,420,23,72,70,Si,No,60,200,Rojo,14,En riesgo,0.42
+Limoso,5.7,260,28,57,45,No,Si,48,160,Naranja,11,Enfermo,0.32
+Arenoso,6.2,360,27,65,80,No,No,67,250,Rojo,20,Saludable,0.39
+Arcilloso,7.6,480,22,75,70,Si,Si,36,130,Naranja,7,En riesgo,0.45
+Limoso,6.1,230,29,56,55,No,Si,50,170,Rojo,10,En riesgo,0.35
+Arenoso,6.8,390,25,68,95,No,No,65,260,Rojo,19,Saludable,0.41
+Arcilloso,7,430,24,73,70,Si,No,62,210,Rojo,16,En riesgo,0.44
+Limoso,5.5,250,28,55,40,No,Si,45,140,Amarillo,13,Enfermo,0.3
+Arenoso,6.6,370,26,67,85,No,No,68,240,Rojo,18,Saludable,0.41
+Arcilloso,7.5,460,23,74,65,Si,No,63,220,Naranja,12,En riesgo,0.46
+Limoso,5.8,240,29,54,50,No,Si,47,160,Amarillo,9,Enfermo,0.32
+Arenoso,6.5,380,28,66,90,No,No,66,250,Rojo,17,Saludable,0.43
+Arcilloso,7.4,470,22,75,65,Si,Si,35,120,Naranja,8,En riesgo,0.44
+Limoso,5.9,220,30,53,60,No,No,52,170,Rojo,11,Enfermo,0.34
+Arenoso,6.4,360,27,65,80,No,No,67,240,Rojo,20,Saludable,0.4
+Arcilloso,7.3,430,22,74,65,Si,No,60,200,Rojo,14,En riesgo,0.42
+Limoso,5.7,250,28,56,50,No,Si,49,160,Naranja,10,Enfermo,0.32
+Arenoso,6.3,380,26,66,85,No,No,68,240,Rojo,18,Saludable,0.39
+Arcilloso,7.2,450,23,73,75,Si,No,61,220,Rojo,15,En riesgo,0.43
+Limoso,5.6,240,28,54,50,No,Si,46,150,Amarillo,12,Enfermo,0.3
+Arenoso,6.7,380,25,67,90,No,No,68,240,Rojo,17,Saludable,0.4
+Arcilloso,7.1,420,24,72,70,Si,No,60,200,Rojo,14,En riesgo,0.44
+Limoso,5.7,260,28,57,45,No,Si,48,160,Naranja,11,Enfermo,0.32
+Arenoso,6.2,360,27,65,80,No,No,67,250,Rojo,20,Saludable,0.39
+Arcilloso,7.6,480,22,75,70,Si,Si,36,130,Naranja,7,En riesgo,0.45
+Limoso,6.1,230,29,56,55,No,Si,50,170,Rojo,10,En riesgo,0.35
+Arenoso,6.8,390,25,68,95,No,No,65,260,Rojo,19,Saludable,0.41
+Arcilloso,7,430,24,73,70,Si,No,62,210,Rojo,16,En riesgo,0.44
+Limoso,5.5,250,28,55,40,No,Si,45,140,Amarillo,13,Enfermo,0.3
+Arenoso,6.6,370,26,67,85,No,No,68,240,Rojo,18,Saludable,0.41
+Arcilloso,7.5,460,23,74,65,Si,No,63,220,Naranja,12,En riesgo,0.46
+Limoso,5.8,240,29,54,50,No,Si,47,160,Amarillo,9,Enfermo,0.32
+Arenoso,6.5,380,28,66,90,No,No,66,250,Rojo,17,Saludable,0.43
+Arcilloso,7.4,470,22,75,65,Si,Si,35,120,Naranja,8,En riesgo,0.44
+Limoso,5.9,220,30,53,60,No,No,52,170,Rojo,11,Enfermo,0.34
+Arenoso,6.4,380,25,66,85,No,No,63,230,Rojo,17,Saludable,0.38
+Arcilloso,7.2,460,24,72,75,Si,No,60,220,Rojo,15,En riesgo,0.44
+Limoso,5.6,250,28,54,50,No,Si,45,150,Amarillo,12,Enfermo,0.3
+Arenoso,6.7,390,26,67,90,No,No,68,240,Rojo,18,Saludable,0.42
+Arcilloso,7.1,420,23,73,70,Si,No,62,200,Rojo,14,En riesgo,0.43
+Limoso,5.7,270,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.32
+Arenoso,6.2,370,27,65,80,No,No,67,250,Rojo,20,Saludable,0.39
+Arcilloso,7.6,490,22,75,70,Si,Si,37,130,Naranja,7,En riesgo,0.45
+Limoso,6.1,240,29,56,55,No,Si,51,170,Rojo,10,En riesgo,0.35
+Arenoso,6.8,400,25,68,95,No,No,66,260,Rojo,19,Saludable,0.41
+Arcilloso,7,440,24,73,70,Si,No,61,210,Rojo,16,En riesgo,0.44
+Limoso,5.5,260,28,55,40,No,Si,44,140,Amarillo,13,Enfermo,0.3
+Arenoso,6.6,380,26,67,85,No,No,69,240,Rojo,18,Saludable,0.41
+Arcilloso,7.5,470,23,74,65,Si,No,64,220,Naranja,12,En riesgo,0.46
+Limoso,5.8,250,29,54,50,No,Si,48,160,Amarillo,9,Enfermo,0.32
+Arenoso,6.5,390,28,66,90,No,No,65,250,Rojo,17,Saludable,0.43
+Arcilloso,7.4,480,22,75,65,Si,Si,36,120,Naranja,8,En riesgo,0.44
+Limoso,5.9,230,30,53,60,No,No,53,170,Rojo,11,Enfermo,0.34
+Arenoso,6.4,370,27,65,80,No,No,67,240,Rojo,20,Saludable,0.4
+Arcilloso,7.3,440,22,74,65,Si,No,60,200,Rojo,14,En riesgo,0.42
+Limoso,5.7,260,28,56,50,No,Si,49,160,Naranja,10,Enfermo,0.32
+Arenoso,6.3,380,26,67,85,No,No,68,240,Rojo,18,Saludable,0.39
+Arcilloso,7.2,460,23,73,75,Si,No,61,220,Rojo,15,En riesgo,0.43
+Limoso,5.6,250,28,54,50,No,Si,46,150,Amarillo,12,Enfermo,0.3
+Arenoso,6.7,390,26,67,90,No,No,68,240,Rojo,17,Saludable,0.42
+Arcilloso,7.1,420,24,72,70,Si,No,62,200,Rojo,14,En riesgo,0.44
+Limoso,5.7,270,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.32
+Arenoso,6.2,370,27,65,80,No,No,67,250,Rojo,20,Saludable,0.39
+Arcilloso,7.6,490,22,75,70,Si,Si,37,130,Naranja,7,En riesgo,0.45
+Limoso,6.1,240,29,56,55,No,Si,51,170,Rojo,10,En riesgo,0.35
+Arenoso,6.8,400,25,68,95,No,No,66,260,Rojo,19,Saludable,0.41
+Arcilloso,7,440,24,73,70,Si,No,61,210,Rojo,16,En riesgo,0.44
+Limoso,5.5,260,28,55,40,No,Si,44,140,Amarillo,13,Enfermo,0.3
+Arenoso,6.6,380,26,67,85,No,No,69,240,Rojo,18,Saludable,0.41
+Arcilloso,7.5,470,23,74,65,Si,No,64,220,Naranja,12,En riesgo,0.46
+Limoso,5.8,250,29,54,50,No,Si,48,160,Amarillo,9,Enfermo,0.32
+Arenoso,6.5,390,28,66,90,No,No,65,250,Rojo,17,Saludable,0.43
+Arcilloso,7.4,480,22,75,65,Si,Si,36,120,Naranja,8,En riesgo,0.44
+Limoso,5.9,230,30,53,60,No,No,53,170,Rojo,11,Enfermo,0.34
+Arenoso,6.4,380,25,66,85,No,No,63,230,Rojo,17,Saludable,0.38
+Arcilloso,7.2,460,24,72,75,Si,No,60,220,Rojo,15,En riesgo,0.44
+Limoso,5.6,250,28,54,50,No,Si,45,150,Amarillo,12,Enfermo,0.3
+Arenoso,6.7,390,26,67,90,No,No,68,240,Rojo,18,Saludable,0.42
+Arcilloso,7.1,420,23,73,70,Si,No,62,200,Rojo,14,En riesgo,0.43
+Limoso,5.7,270,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.32
+Arenoso,6.2,370,27,65,80,No,No,67,250,Rojo,20,Saludable,0.39
+Arcilloso,7.6,490,22,75,70,Si,Si,37,130,Naranja,7,En riesgo,0.45
+Limoso,6.1,240,29,56,55,No,Si,51,170,Rojo,10,En riesgo,0.35
+Arenoso,6.8,400,25,68,95,No,No,66,260,Rojo,19,Saludable,0.41
+Arcilloso,7,440,24,73,70,Si,No,61,210,Rojo,16,En riesgo,0.44
+Limoso,5.5,260,28,55,40,No,Si,44,140,Amarillo,13,Enfermo,0.3
+Arenoso,6.6,380,26,67,85,No,No,69,240,Rojo,18,Saludable,0.41
+Arcilloso,7.5,470,23,74,65,Si,No,64,220,Naranja,12,En riesgo,0.46
+Limoso,5.8,250,29,54,50,No,Si,48,160,Amarillo,9,Enfermo,0.32
+Arenoso,6.5,390,28,66,90,No,No,65,250,Rojo,17,Saludable,0.43
+Arcilloso,7.4,480,22,75,65,Si,Si,36,120,Naranja,8,En riesgo,0.44
+Limoso,5.9,230,30,53,60,No,No,53,170,Rojo,11,Enfermo,0.34
+Arenoso,6.4,370,27,65,80,No,No,67,240,Rojo,20,Saludable,0.4
+Arcilloso,7.3,440,22,74,65,Si,No,60,200,Rojo,14,En riesgo,0.42
+Limoso,5.7,260,28,56,50,No,Si,49,160,Naranja,10,Enfermo,0.32
+Arenoso,6.3,380,26,67,85,No,No,68,240,Rojo,18,Saludable,0.39
+Arcilloso,7.2,460,23,73,75,Si,No,61,220,Rojo,15,En riesgo,0.43
+Limoso,5.6,250,28,54,50,No,Si,46,150,Amarillo,12,Enfermo,0.3
+Arenoso,6.7,390,26,67,90,No,No,68,240,Rojo,17,Saludable,0.42
+Arcilloso,7.1,420,24,72,70,Si,No,62,200,Rojo,14,En riesgo,0.44
+Limoso,5.7,270,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.32
+Arenoso,6.2,370,27,65,80,No,No,67,250,Rojo,20,Saludable,0.39
+Arcilloso,7.6,490,22,75,70,Si,Si,37,130,Naranja,7,En riesgo,0.45
+Limoso,6.1,240,29,56,55,No,Si,51,170,Rojo,10,En riesgo,0.35
+Arenoso,6.8,400,25,68,95,No,No,66,260,Rojo,19,Saludable,0.41
+Arenoso,6.4,380,25,66,85,No,No,63,230,Rojo,17,Saludable,0.38
+Arcilloso,7.2,460,24,72,75,Si,No,60,220,Rojo,15,En riesgo,0.44
+Limoso,5.6,250,28,54,50,No,Si,45,150,Amarillo,12,Enfermo,0.3
+Arenoso,6.7,390,26,67,90,No,No,68,240,Rojo,18,Saludable,0.42
+Arcilloso,7.1,420,23,73,70,Si,No,62,200,Rojo,14,En riesgo,0.43
+Limoso,5.7,270,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.32
+Arenoso,6.2,370,27,65,80,No,No,67,250,Rojo,20,Saludable,0.39
+Arcilloso,7.6,490,22,75,70,Si,Si,37,130,Naranja,7,En riesgo,0.45
+Limoso,6.1,240,29,56,55,No,Si,51,170,Rojo,10,En riesgo,0.35
+Arenoso,6.8,400,25,68,95,No,No,66,260,Rojo,19,Saludable,0.41
+Arcilloso,7,440,24,73,70,Si,No,61,210,Rojo,16,En riesgo,0.44
+Limoso,5.5,260,28,55,40,No,Si,44,140,Amarillo,13,Enfermo,0.3
+Arenoso,6.6,380,26,67,85,No,No,69,240,Rojo,18,Saludable,0.41
+Arcilloso,7.5,470,23,74,65,Si,No,64,220,Naranja,12,En riesgo,0.46
+Limoso,5.8,250,29,54,50,No,Si,48,160,Amarillo,9,Enfermo,0.32
+Arenoso,6.5,390,28,66,90,No,No,65,250,Rojo,17,Saludable,0.43
+Arcilloso,7.4,480,22,75,65,Si,Si,36,120,Naranja,8,En riesgo,0.44
+Limoso,5.9,230,30,53,60,No,No,53,170,Rojo,11,Enfermo,0.34
+Arenoso,6.4,370,27,65,80,No,No,67,240,Rojo,20,Saludable,0.4
+Arcilloso,7.3,440,22,74,65,Si,No,60,200,Rojo,14,En riesgo,0.42
+Limoso,5.7,260,28,56,50,No,Si,49,160,Naranja,10,Enfermo,0.32
+Arenoso,6.3,380,26,67,85,No,No,68,240,Rojo,18,Saludable,0.39
+Arcilloso,7.2,460,23,73,75,Si,No,61,220,Rojo,15,En riesgo,0.43
+Limoso,5.6,250,28,54,50,No,Si,46,150,Amarillo,12,Enfermo,0.3
+Arenoso,6.7,390,26,67,90,No,No,68,240,Rojo,17,Saludable,0.42
+Arcilloso,7.1,420,24,72,70,Si,No,62,200,Rojo,14,En riesgo,0.44
+Limoso,5.7,270,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.32
+Arenoso,6.2,370,27,65,80,No,No,67,250,Rojo,20,Saludable,0.39
+Arcilloso,7.6,490,22,75,70,Si,Si,37,130,Naranja,7,En riesgo,0.45
+Limoso,6.1,240,29,56,55,No,Si,51,170,Rojo,10,En riesgo,0.35
+Arenoso,6.8,400,25,68,95,No,No,66,260,Rojo,19,Saludable,0.41
+Arcilloso,7,440,24,73,70,Si,No,61,210,Rojo,16,En riesgo,0.44
+Limoso,5.5,260,28,55,40,No,Si,44,140,Amarillo,13,Enfermo,0.3
+Arenoso,6.6,380,26,67,85,No,No,69,240,Rojo,18,Saludable,0.41
+Arcilloso,7.5,470,23,74,65,Si,No,64,220,Naranja,12,En riesgo,0.46
+Limoso,5.8,250,29,54,50,No,Si,48,160,Amarillo,9,Enfermo,0.32
+Arenoso,6.5,390,28,66,90,No,No,65,250,Rojo,17,Saludable,0.43
+Arcilloso,7.4,480,22,75,65,Si,Si,36,120,Naranja,8,En riesgo,0.44
+Limoso,5.9,230,30,53,60,No,No,53,170,Rojo,11,Enfermo,0.34
+Arenoso,6.4,370,27,65,80,No,No,67,240,Rojo,20,Saludable,0.4
+Arcilloso,7.3,440,22,74,65,Si,No,60,200,Rojo,14,En riesgo,0.42
+Limoso,5.7,260,28,56,50,No,Si,49,160,Naranja,10,Enfermo,0.32
+Arenoso,6.3,380,26,67,85,No,No,68,240,Rojo,18,Saludable,0.39
+Arcilloso,7.2,460,23,73,75,Si,No,61,220,Rojo,15,En riesgo,0.43
+Limoso,5.6,250,28,54,50,No,Si,46,150,Amarillo,12,Enfermo,0.3
+Arenoso,6.7,390,26,67,90,No,No,68,240,Rojo,17,Saludable,0.42
+Arcilloso,7.1,420,24,72,70,Si,No,62,200,Rojo,14,En riesgo,0.44
+Limoso,5.7,270,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.32
+Arenoso,6.2,370,27,65,80,No,No,67,250,Rojo,20,Saludable,0.39
+Arcilloso,7.6,490,22,75,70,Si,Si,37,130,Naranja,7,En riesgo,0.45
+Limoso,6.1,240,29,56,55,No,Si,51,170,Rojo,10,En riesgo,0.35
+Arenoso,6.8,400,25,68,95,No,No,66,260,Rojo,19,Saludable,0.41
+Arcilloso,7,440,24,73,70,Si,No,61,210,Rojo,16,En riesgo,0.44
+Limoso,5.5,260,28,55,40,No,Si,44,140,Amarillo,13,Enfermo,0.3
+Arenoso,6.6,380,26,67,85,No,No,69,240,Rojo,18,Saludable,0.41
+Arenoso,6.9,410,25,67,90,No,No,64,230,Rojo,17,Saludable,0.41
+Arcilloso,7.3,470,24,73,75,Si,No,61,220,Rojo,15,En riesgo,0.46
+Limoso,5.7,260,28,54,50,No,Si,46,150,Amarillo,12,Enfermo,0.31
+Arenoso,6.8,400,26,68,95,No,No,68,240,Rojo,18,Saludable,0.43
+Arcilloso,7.2,430,23,72,70,Si,No,62,200,Rojo,14,En riesgo,0.43
+Limoso,5.6,280,28,57,45,No,Si,48,160,Naranja,11,Enfermo,0.32
+Arenoso,6.5,390,27,65,80,No,No,67,250,Rojo,20,Saludable,0.41
+Arcilloso,7.6,500,22,75,70,Si,Si,38,130,Naranja,7,En riesgo,0.45
+Limoso,6,250,29,56,55,No,Si,52,170,Rojo,10,Enfermo,0.35
+Arenoso,6.7,410,25,67,90,No,No,67,260,Rojo,19,Saludable,0.4
+Arcilloso,7.1,450,24,73,70,Si,No,63,210,Rojo,16,En riesgo,0.44
+Limoso,5.5,270,28,55,40,No,Si,45,140,Amarillo,13,Enfermo,0.3
+Arenoso,6.6,400,26,67,85,No,No,70,240,Rojo,18,Saludable,0.41
+Arcilloso,7.5,480,23,74,65,Si,No,65,220,Naranja,12,En riesgo,0.46
+Limoso,5.9,240,30,53,60,No,No,54,170,Rojo,11,Enfermo,0.34
+Arenoso,6.4,380,27,65,80,No,No,68,240,Rojo,20,Saludable,0.4
+Arcilloso,7.4,490,22,75,65,Si,Si,37,120,Naranja,8,En riesgo,0.44
+Limoso,5.8,260,29,54,50,No,Si,49,160,Amarillo,9,Enfermo,0.32
+Arenoso,6.9,410,25,67,90,No,No,64,230,Rojo,17,Saludable,0.41
+Arcilloso,7.3,470,24,73,75,Si,No,61,220,Rojo,15,En riesgo,0.46
+Arenoso,6.6,350,,27,65,No,No,66,220, Rojo  ,18,En riesgo  ,0.39
+Arcilloso,7.3,430,,23,74,Si,No,54,180, Rojo  ,13,Enfermo,0.44
+Limoso,5.7,,30,54,50,Si,,159,160,Amarillo  ,,Enfermo  ,0.31
+Arenoso,6.9,380,,28,66,No,No,69,250,Rojo  ,20,Saludable   ,
+Arcilloso,7.6,470,,22,76,Si,No,57,190,,15,En riesgo  ,0.46
+Limoso,5.8,270,31,55,60,No,,139,140,Rojo  ,10,Saludable   ,0.36
+Arenoso,6.7,370,,27,65,,No,68,230,Rojo  ,19,Saludable   ,0.41
+Arcilloso,7.4,,,23,75,Si,Si,36,110,Naranja  ,6,,
+Limoso,5.6,250,29,53,55,Si,,169,,Amarillo  ,11,Saludable  ,0.33
+Arenoso,6.8,390,,28,66,No,No,70,240,Rojo  ,21,Saludable   ,0.44
+Arcilloso,7.5,460,,22,76,Si,Si,39,120,Naranja ,7,,0.45
+Limoso,5.9,,30,56,65,Si,,179,180,Amarillo  ,12,Saludable  ,
+Arenoso,6.10,400,,29,67,No,No,71,260,,22,Saludable  ,0.45
+Arcilloso,7.6,480,,22,,Si,Si,41,130,Naranja  ,8,En riesgo ,
+Limoso ,5.10,290,30,57,70,Si,,199,200, Amarillo  ,13,,0.37
+Arenoso,6.6,350,,27,65,No,No,66,220, Rojo  ,18,En riesgo  ,0.39
+Arcilloso,7.3,430,,23,74,Si,No,54,180, Rojo  ,13,Enfermo,0.44
+Limoso,5.7,,30,54,50,Si,,,160,Amarillo  ,,Enfermo  ,0.31
+Arenoso,6.9,380,,28,66,No,No,69,250,Rojo  ,20,Saludable   ,
+Arcilloso,7.6,,,22,76,Si,No,57,190,,15,En riesgo  ,0.46
+Limoso,,270,31,55,60,No,,139,140,Rojo  ,10,Saludable   ,0.36
+Arenoso,6.7,370,,27,65,No,No,68,230,Rojo  ,19,Saludable   ,0.41
+Arcilloso,7.4,,,23,,Si,Si,36,110,Naranja  ,6,,
+Limoso,5.6,250,29,53,55,Si,,169,170,Amarillo  ,11,Saludable  ,0.33
+Arenoso,6.8,390,,28,66,No,No,70,240,Rojo  ,21,Saludable   ,0.44
+Arcilloso,7.5,460,,22,76,Si,Si,39,120,Naranja ,7,,0.45
+Limoso,5.9,,30,56,65,Si,,179,180,Amarillo  ,12,Saludable  ,
+Arenoso,6.10,400,,29,67,No,No,71,260,,22,Saludable  ,0.45
+Arcilloso,7.6,480,,22,77,Si,Si,41,130,Naranja  ,8,En riesgo ,
+Limoso ,5.10,290,30,57,70,Si,,199,200, Amarillo  ,13,Saludable,0.37
+Arcilloso,7.1,430,23,73,70,Si,No,62,200,Rojo,14,En riesgo,0.43
+Limoso,5.7,290,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.32
+Arenoso,6.2,380,27,65,80,No,No,67,250,Rojo,20,Saludable,0.39
+Arcilloso,7.5,490,22,75,70,Si,Si,37,130,Naranja,7,En riesgo,0.44
+Limoso,6.1,260,29,56,55,No,Si,51,170,Rojo,10,En riesgo,0.35
+Arenoso,6.2,370,27,66,85,No,No,63,230,Rojo,17,Saludable,0.39
+Arcilloso,7.1,450,24,73,75,Si,No,60,220,Rojo,15,En riesgo,0.44
+Limoso,5.9,270,28,54,50,No,Si,45,150,Amarillo,12,Enfermo,0.32
+Arenoso,6.6,390,26,67,90,No,No,68,240,Rojo,18,Saludable,0.41
+Arcilloso,7,420,23,73,70,Si,No,62,200,Rojo,14,En riesgo,0.42
+Limoso,5.8,280,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.33
+Arenoso,6.4,380,27,65,80,No,No,67,250,Rojo,20,Saludable,0.4
+Arcilloso,7.5,490,22,75,70,Si,Si,37,130,Naranja,7,En riesgo,0.44
+Limoso,6,260,29,56,55,No,Si,51,170,Rojo,10,Enfermo,0.35
+Arenoso,6.7,400,25,68,95,No,No,66,260,Rojo,19,Saludable,0.41
+Arcilloso,7.2,460,24,73,70,Si,No,61,210,Rojo,16,En riesgo,0.45
+Limoso,5.6,290,28,55,40,No,Si,44,140,Amarillo,13,Enfermo,0.31
+Arenoso,6.5,390,26,67,85,No,No,69,240,Rojo,18,Saludable,0.4
+Arcilloso,7.4,500,23,74,65,Si,No,64,220,Naranja,12,En riesgo,0.45
+Limoso,5.7,270,30,53,60,No,No,53,170,Rojo,11,Enfermo,0.32
+Arenoso,6.3,380,27,65,80,No,No,68,240,Rojo,20,Saludable,0.39
+Arcilloso,7.6,510,22,75,70,Si,Si,38,130,Naranja,7,En riesgo,0.45
+Limoso,6.1,250,29,56,55,No,Si,52,170,Rojo,10,En riesgo,0.35
+Arenoso,6.8,410,25,67,90,No,No,64,230,Rojo,17,Saludable,0.41
+Arcilloso,7.3,470,24,73,75,Si,No,61,220,Rojo,15,En riesgo,0.46
+Limoso,5.9,230,30,54,50,No,Si,48,160,Amarillo,9,Enfermo,0.34
+Arenoso,6.4,370,27,65,80,No,No,67,250,Rojo,19,Saludable,0.4
+Arcilloso,7.7,520,21,75,70,Si,Si,39,130,Naranja,8,En riesgo,0.43
+Limoso,6.2,260,29,56,55,No,Si,52,170,Rojo,10,En riesgo,0.36
+Arenoso,6.9,420,25,67,90,No,No,64,230,Rojo,17,Saludable,0.41
+Arcilloso,7.2,480,24,73,75,Si,No,60,220,Rojo,15,En riesgo,0.45
+Limoso,5.8,280,28,54,50,No,Si,45,150,Amarillo,12,Enfermo,0.31
+Arenoso,6.1,360,26,66,85,No,No,63,230,Rojo,17,En riesgo,0.37
+Arcilloso,7,440,24,73,75,Si,No,60,220,Rojo,15,En riesgo,0.44
+Limoso,5.8,260,28,54,50,No,Si,45,150,Amarillo,12,Enfermo,0.31
+Arenoso,6.5,380,26,67,90,No,No,68,240,Rojo,18,Saludable,0.4
+Arcilloso,6.9,410,23,73,70,Si,No,62,200,Rojo,14,En riesgo,0.41
+Limoso,5.7,270,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.32
+Arenoso,6.3,370,27,65,80,No,No,67,250,Rojo,20,Saludable,0.39
+Arcilloso,7.6,480,22,75,70,Si,Si,37,130,Naranja,7,En riesgo,0.45
+Limoso,6,250,29,56,55,No,Si,51,170,Rojo,10,Enfermo,0.35
+Arenoso,6.8,400,25,68,95,No,No,66,260,Rojo,19,Saludable,0.41
+Arcilloso,7.1,450,24,73,70,Si,No,61,210,Rojo,16,En riesgo,0.44
+Limoso,5.6,280,28,55,40,No,Si,44,140,Amarillo,13,Enfermo,0.31
+Arenoso,6.4,390,26,67,85,No,No,69,240,Rojo,18,Saludable,0.4
+Arcilloso,7.5,500,23,74,65,Si,No,64,220,Naranja,12,En riesgo,0.46
+Limoso,5.5,290,30,53,60,No,No,53,170,Rojo,11,Enfermo,0.31
+Arenoso,6.2,380,27,65,80,No,No,68,240,Rojo,20,Saludable,0.39
+Arcilloso,7.7,520,21,75,70,Si,Si,39,130,Naranja,8,En riesgo,0.43
+Limoso,6.1,260,29,56,55,No,Si,52,170,Rojo,10,En riesgo,0.35
+Arenoso,6.9,410,25,67,90,No,No,64,230,Rojo,17,Saludable,0.41
+Arcilloso,7.2,470,24,73,75,Si,No,61,220,Rojo,15,En riesgo,0.45
+Limoso,5.9,230,30,54,50,No,Si,48,160,Amarillo,9,Enfermo,0.34
+Arenoso,6.6,400,26,67,85,No,No,68,240,Rojo,18,Saludable,0.41
+Arcilloso,7.3,480,23,74,65,Si,No,63,220,Rojo,14,En riesgo,0.44
+Limoso,5.8,270,29,55,40,No,Si,46,150,Amarillo,12,Enfermo,0.33
+Arenoso,6.7,410,25,68,95,No,No,65,250,Rojo,19,Saludable,0.41
+Arcilloso,7.4,510,22,75,70,Si,No,62,210,Rojo,16,En riesgo,0.44
+Limoso,5.7,280,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.32
+Arenoso,6.5,390,26,66,80,No,No,67,240,Rojo,20,Saludable,0.4
+Arcilloso,7.8,530,21,75,70,Si,Si,40,130,Naranja,7,En riesgo,0.44
+Limoso,6.2,250,29,56,55,No,Si,51,170,Rojo,10,En riesgo,0.36
+Arenoso,6.8,400,25,67,90,No,No,65,230,Rojo,17,Saludable,0.41
+Arcilloso,7.5,490,22,73,75,Si,No,60,220,Rojo,15,En riesgo,0.43
+Limoso,5.6,290,28,55,40,No,Si,45,150,Amarillo,12,Enfermo,0.31
+Arenoso,6.4,380,26,65,80,No,No,66,250,Rojo,19,Saludable,0.39
+Arcilloso,7.7,520,21,75,70,Si,Si,38,130,Naranja,8,En riesgo,0.43
+Limoso,6,260,29,56,55,No,Si,52,170,Rojo,10,Enfermo,0.35
+Arenoso,6.9,410,25,67,90,No,No,64,230,Rojo,17,Saludable,0.41
+Arcilloso,7.2,470,24,73,75,Si,No,61,220,Rojo,15,En riesgo,0.45
+Limoso,5.9,230,30,54,50,No,Si,48,160,Amarillo,9,Enfermo,0.34
+Arenoso,6.3,370,26,67,85,No,No,63,230,Rojo,17,Saludable,0.39
+Arcilloso,7.2,440,24,73,75,Si,No,60,220,Rojo,15,En riesgo,0.45
+Limoso,6,260,28,54,50,No,Si,45,150,Amarillo,12,Enfermo,0.32
+Arenoso,6.6,390,26,67,90,No,No,68,240,Rojo,18,Saludable,0.41
+Arcilloso,7.1,420,23,73,70,Si,No,62,200,Rojo,14,En riesgo,0.43
+Limoso,5.9,270,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.34
+Arenoso,6.5,380,27,65,80,No,No,67,250,Rojo,20,Saludable,0.41
+Arcilloso,7,450,22,75,70,Si,No,61,210,Rojo,16,En riesgo,0.41
+Limoso,5.8,280,28,54,50,No,Si,46,160,Amarillo,13,Enfermo,0.31
+Arenoso,6.4,390,26,67,85,No,No,69,240,Rojo,18,Saludable,0.4
+Arcilloso,7.5,500,23,74,65,Si,No,64,220,Naranja,12,En riesgo,0.46
+Limoso,5.7,270,29,53,60,No,No,53,170,Rojo,11,Enfermo,0.31
+Arenoso,6.2,380,27,65,80,No,No,68,240,Rojo,20,Saludable,0.39
+Arcilloso,7.6,510,22,75,70,Si,Si,39,130,Naranja,7,En riesgo,0.45
+Limoso,6.1,250,29,56,55,No,Si,52,170,Rojo,10,En riesgo,0.35
+Arenoso,6.7,400,25,68,95,No,No,65,250,Rojo,19,Saludable,0.41
+Arcilloso,7.3,460,24,73,75,Si,No,61,220,Rojo,15,En riesgo,0.46
+Limoso,5.6,290,28,55,40,No,Si,44,140,Amarillo,12,Enfermo,0.31
+Arenoso,6.3,370,26,67,85,No,No,63,230,Rojo,17,Saludable,0.39
+Arcilloso,7.2,440,24,73,75,Si,No,60,220,Rojo,15,En riesgo,0.45
+Limoso,6,260,28,54,50,No,Si,45,150,Amarillo,12,Enfermo,0.32
+Arenoso,6.6,390,26,67,90,No,No,68,240,Rojo,18,Saludable,0.41
+Arcilloso,7.1,420,23,73,70,Si,No,62,200,Rojo,14,En riesgo,0.43
+Limoso,5.9,270,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.34
+Arenoso,6.5,380,27,65,80,No,No,67,250,Rojo,20,Saludable,0.41
+Arcilloso,7,450,22,75,70,Si,No,61,210,Rojo,16,En riesgo,0.41
+Limoso,5.8,280,28,54,50,No,Si,46,160,Amarillo,13,Enfermo,0.31
+Arenoso,6.6,350,,27,65,No,No,66,220, Rojo  ,18,En riesgo  ,0.39
+Arcilloso,7.3,430,,23,74,Si,No,54,180, Rojo  ,13,Enfermo,0.44
+Limoso,5.7,,30,54,50,Si,,159,160,Amarillo  ,,Enfermo  ,0.31
+Arenoso,6.9,380,,28,66,No,No,69,250,Rojo  ,20,Saludable   ,
+Arcilloso,7.6,470,,22,76,Si,No,57,190,,15,En riesgo  ,0.46
+Limoso,5.8,270,31,55,60,No,,139,140,Rojo  ,10,Saludable   ,0.36
+Arenoso,6.7,370,,27,65,No,No,68,230,Rojo  ,19,Saludable   ,0.41
+Arcilloso,7.4,,,23,75,Si,Si,36,110,Naranja  ,6,,
+Limoso,6,260,28,54,50,No,Si,45,150,Amarillo,12,Enfermo,0.32
+Arenoso,6.5,360,27,68,86,No,No,64,235,Rojo,18,Saludable,0.43
+Arcilloso,7.3,450,25,74,76,Si,No,63,225,Rojo,16,En riesgo,0.48
+Limoso,6.1,270,29,55,51,No,Si,46,155,Amarillo,13,Enfermo,0.35
+Arenoso,6.7,380,27,68,91,No,No,69,245,Rojo,19,Saludable,0.44
+Arcilloso,7.2,430,24,74,71,Si,No,63,205,Rojo,15,En riesgo,0.46
+Limoso,6,280,29,58,46,No,Si,50,165,Naranja,12,En riesgo,0.36
+Arenoso,6.6,370,28,66,82,No,No,66,255,Rojo,20,Saludable,0.44
+Arcilloso,7.1,460,23,76,72,Si,No,64,215,Rojo,14,En riesgo,0.44
+Limoso,5.9,290,29,56,51,No,Si,47,165,Amarillo,10,Enfermo,0.34
+Arenoso,6.8,390,26,69,92,No,No,70,260,Rojo,21,Saludable,0.44
+Arcilloso,7,470,22,77,73,Si,No,65,220,Rojo,17,En riesgo,0.42
+Limoso,5.8,300,30,54,52,No,Si,45,160,Naranja,11,Enfermo,0.34
+Arenoso,6.4,380,27,67,86,No,No,68,250,Rojo,19,Saludable,0.41
+Arcilloso,7.4,480,23,75,66,Si,No,62,230,Rojo,15,En riesgo,0.46
+Limoso,5.7,310,28,53,50,No,Si,48,170,Amarillo,12,Enfermo,0.3
+Arenoso,6.3,370,28,68,85,No,No,66,240,Rojo,18,Saludable,0.43
+Arcilloso,7.5,490,22,76,67,Si,No,61,225,Rojo,16,En riesgo,0.45
+Limoso,5.6,320,29,52,53,No,Si,46,165,Naranja,10,Enfermo,0.3
+Arenoso,6.9,400,26,70,93,No,No,72,265,Rojo,22,Saludable,0.45
+Arcilloso,6.9,480,23,74,74,Si,No,63,210,Rojo,14,En riesgo,0.42
+Limoso,5.5,330,29,51,54,No,Si,44,170,Amarillo,11,Enfermo,0.29
+Arenoso,6.2,360,28,69,84,No,No,67,245,Rojo,19,Saludable,0.43
+Arcilloso,7.6,500,22,77,68,Si,No,60,230,Rojo,17,En riesgo,0.46
+Limoso,5.4,340,29,50,55,No,Si,43,175,Naranja,9,Enfermo,0.28
+Arenoso,6.7,410,25,71,94,No,No,73,270,Rojo,23,Saludable,0.42
+Arcilloso,6.8,490,22,75,75,Si,No,64,215,Rojo,15,En riesgo,0.4
+Limoso,5.3,350,30,49,56,No,Si,42,180,Amarillo,10,Enfermo,0.28
+Arenoso,6.1,380,28,70,85,No,No,68,250,Rojo,20,Saludable,0.43
+Arenoso,6.8,390,,28,66,No,No,70,240,Rojo  ,21,Saludable   ,0.44
+Arcilloso,7.5,460,,22,76,Si,Si,39,120,Naranja ,7,,0.45
+Limoso,5.9,,30,56,65,Si,,179,180,Amarillo  ,12,Saludable  ,
+Arenoso,6.10,400,,29,67,No,No,71,260,,22,Saludable  ,0.45
+Arcilloso,7.6,480,,22,77,Si,Si,41,130,Naranja  ,8,En riesgo ,
+Limoso ,5.10,290,30,57,70,Si,,199,200, Amarillo  ,13,Saludable,0.37
+Arenoso,6.6,350,,27,65,No,No,66,220, Rojo  ,18,En riesgo  ,0.39
+Arcilloso,7.3,430,,23,74,Si,No,54,180, Rojo  ,13,Enfermo,0.44
+Limoso,5.7,,30,54,50,Si,,159,160,Amarillo  ,,Enfermo  ,0.31
+Arenoso,6.9,380,,28,66,No,No,69,250,Rojo  ,20,Saludable   ,
+Arenoso,6.4,380,26,67,86,No,No,63,240,Rojo,18,Saludable,0.4
+Arcilloso,7.2,450,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,6,270,29,55,52,No,Si,47,160,Amarillo,13,Enfermo,0.34
+Arenoso,6.7,390,27,68,91,No,No,69,250,Rojo,19,Saludable,0.44
+Arcilloso,7.1,440,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,5.9,280,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.34
+Arenoso,6.6,370,28,66,83,No,No,67,260,Rojo,20,Saludable,0.44
+Arcilloso,7,460,22,76,73,Si,No,63,220,Rojo,14,En riesgo,0.42
+Limoso,5.8,290,29,54,52,No,Si,48,170,Amarillo,10,Enfermo,0.32
+Arenoso,6.8,400,26,69,93,No,No,71,270,Rojo,21,Saludable,0.44
+Arcilloso,6.9,470,23,75,74,Si,No,65,230,Rojo,17,En riesgo,0.43
+Limoso,5.7,300,30,53,51,No,Si,49,180,Amarillo,12,Enfermo,0.32
+Arenoso,6.5,380,27,67,86,No,No,64,240,Rojo,18,Saludable,0.42
+Arcilloso,7.3,460,24,75,66,Si,No,62,240,Rojo,16,En riesgo,0.47
+Limoso,5.6,310,28,52,53,No,Si,45,175,Naranja,11,Enfermo,0.29
+Arenoso,6.3,370,28,68,85,No,No,66,240,Rojo,19,Saludable,0.43
+Arcilloso,7.4,480,23,75,67,Si,No,64,220,Rojo,15,En riesgo,0.46
+Limoso,5.5,320,29,51,54,No,Si,44,180,Amarillo,11,Enfermo,0.29
+Arenoso,6.9,410,25,71,94,No,No,73,280,Rojo,22,Saludable,0.44
+Arcilloso,6.8,490,22,75,75,Si,No,66,240,Rojo,18,En riesgo,0.4
+Limoso,5.4,330,29,50,55,No,Si,43,185,Naranja,9,Enfermo,0.28
+Arenoso,6.2,360,28,69,84,No,No,68,250,Rojo,20,Saludable,0.43
+Arcilloso,7.5,500,22,76,68,Si,No,61,230,Rojo,16,En riesgo,0.45
+Limoso,5.3,340,30,49,56,No,Si,42,190,Amarillo,10,Enfermo,0.28
+Arenoso,6.7,420,26,72,95,No,No,74,285,Rojo,23,Saludable,0.45
+Arcilloso,6.6,510,22,76,76,Si,No,65,230,Rojo,17,En riesgo,0.39
+Limoso,5.2,350,30,48,57,No,Si,41,195,Naranja,8,Enfermo,0.27
+Arenoso,6.1,390,28,70,85,No,No,68,250,Rojo,20,Saludable,0.43
+Arcilloso,7.6,520,21,78,70,Si,No,60,240,Rojo,18,En riesgo,0.44
+Limoso,5.1,360,30,47,58,No,Si,40,200,Amarillo,8,Enfermo,0.26
+Arenoso,6.5,400,27,73,86,No,No,67,260,Rojo,21,Saludable,0.46
+Arcilloso,6.9,520,22,77,75,Si,No,66,230,Rojo,15,En riesgo,0.42
+Limoso,5,370,30,46,59,No,Si,39,205,Naranja,7,Enfermo,0.25
+Arenoso,6.4,380,26,67,86,No,No,63,240,Rojo,18,Saludable,0.4
+Arcilloso,7.2,450,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,6,270,29,55,52,No,Si,47,160,Amarillo,13,Enfermo,0.34
+Arenoso,6.7,390,27,68,91,No,No,69,250,Rojo,19,Saludable,0.44
+Arcilloso,7.1,440,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,5.9,280,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.34
+Arenoso,6.6,370,28,66,83,No,No,67,260,Rojo,20,Saludable,0.44
+Arcilloso,7,460,22,76,73,Si,No,63,220,Rojo,14,En riesgo,0.42
+Limoso,5.8,290,29,54,52,No,Si,48,170,Amarillo,10,Enfermo,0.32
+Arenoso,6.8,400,26,69,93,No,No,71,270,Rojo,21,Saludable,0.44
+Arcilloso,6.9,470,23,75,74,Si,No,65,230,Rojo,17,En riesgo,0.43
+Limoso,5.7,300,30,53,51,No,Si,49,180,Amarillo,12,Enfermo,0.32
+Arenoso,6.5,380,27,67,86,No,No,64,240,Rojo,18,Saludable,0.42
+Arcilloso,7.3,460,24,75,66,Si,No,62,240,Rojo,16,En riesgo,0.47
+Limoso,5.6,310,28,52,53,No,Si,45,175,Naranja,11,Enfermo,0.29
+Arenoso,6.3,370,28,68,85,No,No,66,240,Rojo,19,Saludable,0.43
+Arcilloso,7.3,430,,23,74,Si,No,54,180, Rojo  ,13,Enfermo,0.44
+Limoso,5.7,,30,54,50,Si,,159,160,Amarillo  ,,Enfermo  ,0.31
+Arenoso,6.9,380,,28,66,No,No,69,250,Rojo  ,20,Saludable   ,
+Arcilloso,7.6,,,22,76,Si,No,57,190,,15,En riesgo  ,0.46
+Limoso,5.8,270,31,55,60,No,,139,140,Rojo  ,10,Saludable   ,0.36
+Arenoso,6.8,390,,28,66,No,No,70,240,Rojo  ,21,Saludable   ,0.44
+Arcilloso,7.5,460,,22,76,Si,Si,39,120,Naranja ,7,,0.45
+Limoso,5.9,,30,56,65,Si,,179,180,Amarillo  ,12,Saludable  ,
+Arenoso,6.10,400,,29,67,No,No,71,260,,22,Saludable  ,0.45
+Arcilloso,7.6,480,,22,77,Si,Si,41,130,Naranja  ,8,En riesgo ,
+Limoso ,5.10,290,30,57,70,Si,,199,200, Amarillo  ,13,Saludable,0.37
+Arenoso,6.6,350,,27,65,No,No,66,220, Rojo  ,18,En riesgo  ,0.39
+Arcilloso,7.3,430,,23,74,Si,No,54,180, Rojo  ,13,Enfermo,0.44
+Limoso,5.7,,30,54,50,Si,,159,160,Amarillo  ,,Enfermo  ,0.31
+Arenoso,6.8,390,,28,66,No,No,70,240,Rojo  ,21,Saludable   ,0.44
+Arcilloso,7.5,460,,22,76,Si,Si,39,120,Naranja ,7,,0.45
+Limoso,5.9,,30,56,65,Si,,179,180,Amarillo  ,12,Saludable  ,
+Arenoso,6.10,400,,29,67,No,No,71,260,,22,Saludable  ,0.45
+Arcilloso,7.6,480,,22,77,Si,Si,41,130,Naranja  ,8,En riesgo ,
+Limoso ,5.10,290,30,57,70,Si,,199,200, Amarillo  ,13,Saludable,0.37
+Arenoso,6.6,350,,27,65,No,No,66,220, Rojo  ,18,En riesgo  ,0.39
+Arenoso,6.8,390,,28,66,No,No,70,240,Rojo  ,21,Saludable   ,0.44
+Arcilloso,7.5,460,,22,76,Si,Si,39,120,Naranja ,7,,0.45
+Limoso,5.9,,30,56,65,Si,,179,180,Amarillo  ,12,Saludable  ,
+Arenoso,6.10,400,,29,67,No,No,71,260,,22,Saludable  ,0.45
+Arcilloso,7.6,480,,22,77,Si,Si,41,130,Naranja  ,8,En riesgo ,
+Limoso ,5.10,290,30,57,70,Si,,199,200, Amarillo  ,13,Saludable,0.37
+Arenoso,6.6,350,,27,65,No,No,66,220, Rojo  ,18,En riesgo  ,0.39
+Arcilloso,7.3,430,,23,74,Si,No,54,180, Rojo  ,13,Enfermo,0.44
+Limoso,5.7,,30,54,50,Si,,159,160,Amarillo  ,,Enfermo  ,0.31
+Arenoso,6.8,390,,28,66,No,No,70,240,Rojo  ,21,Saludable   ,0.44
+Arcilloso,7.5,460,,22,76,Si,Si,39,120,Naranja ,7,,0.45
+Arenoso,6.5,390,27,68,91,No,No,69,250,Rojo,19,Saludable,0.43
+Arcilloso,7,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6.1,300,30,53,51,No,Si,49,180,Amarillo,10,Enfermo,0.35
+Arenoso,6.9,400,26,69,93,No,No,71,270,Rojo,21,Saludable,0.44
+Arcilloso,6.7,470,22,76,73,Si,No,65,230,Rojo,17,En riesgo,0.4
+Limoso,5.5,320,29,51,54,No,Si,44,180,Amarillo,11,Enfermo,0.29
+Arenoso,6.6,380,27,68,87,No,No,63,240,Rojo,18,Saludable,0.43
+Arcilloso,7.3,460,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,5.8,280,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.34
+Arenoso,6.5,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.43
+Arcilloso,7,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6,290,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.7,380,28,66,83,No,No,67,260,Rojo,20,Saludable,0.44
+Arcilloso,6.9,470,22,76,73,Si,No,63,220,Rojo,14,En riesgo,0.41
+Limoso,5.7,300,30,53,51,No,Si,49,180,Amarillo,10,Enfermo,0.32
+Arenoso,6.8,410,26,69,93,No,No,71,270,Rojo,21,Saludable,0.44
+Arcilloso,6.8,460,23,75,74,Si,No,65,230,Rojo,17,En riesgo,0.42
+Limoso,5.6,310,28,52,53,No,Si,45,175,Naranja,11,Enfermo,0.29
+Arenoso,6.4,380,26,67,86,No,No,64,240,Rojo,18,Saludable,0.4
+Arcilloso,7.2,450,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,5.9,280,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.34
+Arenoso,6.5,390,27,68,91,No,No,69,250,Rojo,19,Saludable,0.43
+Arcilloso,7,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6.1,300,30,53,51,No,Si,49,180,Amarillo,10,Enfermo,0.35
+Arenoso,6.9,400,26,69,93,No,No,71,270,Rojo,21,Saludable,0.44
+Arcilloso,6.7,470,22,76,73,Si,No,65,230,Rojo,17,En riesgo,0.4
+Limoso,5.5,320,29,51,54,No,Si,44,180,Amarillo,11,Enfermo,0.29
+Arenoso,6.6,380,27,68,87,No,No,63,240,Rojo,18,Saludable,0.43
+Arcilloso,7.3,460,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,5.8,280,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.34
+Arenoso,6.5,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.43
+Arcilloso,7,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6,290,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arcilloso,7.6,460,22,76,73,Si,No,63,220,Rojo,14,En riesgo,0.45
+Limoso,5.5,320,28,51,54,No,Si,44,180,Amarillo,10,Enfermo,0.28
+Arenoso,6.8,390,27,68,87,No,No,66,240,Rojo,18,Saludable,0.45
+Arcilloso,7.3,460,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,5.8,280,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.34
+Arenoso,6.7,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.44
+Arcilloso,7,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6,290,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.6,380,27,68,87,No,No,63,240,Rojo,18,Saludable,0.43
+Arcilloso,7.4,450,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.47
+Limoso,5.7,290,29,56,47,No,Si,47,160,Amarillo,13,Enfermo,0.33
+Arenoso,6.6,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.43
+Arcilloso,7.1,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6.1,300,30,53,51,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.8,380,28,66,83,No,No,67,260,Rojo,20,Saludable,0.45
+Limoso,5.9,,30,56,65,Si,,179,180,Amarillo  ,12,Saludable  ,
+Arenoso,6.10,400,,29,67,No,No,71,260,,22,Saludable  ,0.45
+Arcilloso,7.6,480,,22,77,Si,Si,41,130,Naranja  ,8,En riesgo ,
+Limoso ,5.10,290,30,57,70,Si,,199,200, Amarillo  ,13,Saludable,0.37
+Arenoso,6.6,350,,27,65,No,No,66,220, Rojo  ,18,En riesgo  ,0.39
+Arcilloso,7.3,430,,23,74,Si,No,54,180, Rojo  ,13,Enfermo,0.44
+Limoso,5.7,,30,54,50,Si,,159,160,Amarillo  ,,Enfermo  ,0.31
+Arenoso,6.8,390,,28,66,No,No,70,240,Rojo  ,21,Saludable   ,0.44
+Arcilloso,7.5,460,,22,76,Si,Si,39,120,Naranja ,7,,0.45
+Limoso,5.9,,30,56,65,Si,,179,180,Amarillo  ,12,Saludable  ,
+Arenoso,6.10,400,,29,67,No,No,71,260,,22,Saludable  ,0.45
+Arcilloso,7.6,480,,22,77,Si,Si,41,130,Naranja  ,8,En riesgo ,
+Limoso ,5.10,290,30,57,70,Si,,199,200, Amarillo  ,13,Saludable,0.37
+Arcilloso ,7.6,480,,22,77,,Si,,42,,8,En riesgo  ,0.46
+Limoso ,5.10,290,30,57,70,No,Si,60,200,Amarillo  ,,Saludable   ,0.37
+Arenoso , 7.1,,,29,,,No,,73,Rojo  ,23,Enfermo ,
+Arcilloso,7.6,,,22,76,,Si,,58,Rojo  ,,En riesgo  , 0.46
+Limoso,5.8,270,31,55,60,No,No,53,140,Rojo  ,10,,0.36
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.6,480,,22,77,,Si,,42,,8,En riesgo  ,0.46
+Limoso ,5.10,290,30,57,70,No,Si,60,200,Amarillo  ,,Saludable   ,0.37
+Arenoso , 7.1,,,29,,,No,,73,Rojo  ,23,Enfermo ,
+Arcilloso,7.6,,,22,76,,Si,,58,Rojo  ,,En riesgo  , 0.46
+Limoso,5.8,270,31,55,60,No,No,53,140,Rojo  ,10,,0.36
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso,7.2,470,23,75,74,Si,No,65,230,Rojo,17,En riesgo,0.44
+Limoso,5.5,320,29,51,54,No,Si,44,180,Amarillo,10,Enfermo,0.29
+Arenoso,6.8,390,27,68,87,No,No,66,240,Rojo,18,Saludable,0.45
+Arcilloso,7.3,460,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,5.8,280,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.34
+Arenoso,6.7,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.44
+Arcilloso,7,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6,290,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.6,380,27,68,87,No,No,63,240,Rojo,18,Saludable,0.43
+Arcilloso,7.4,450,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.47
+Limoso,5.7,290,29,56,47,No,Si,47,160,Amarillo,13,Enfermo,0.33
+Arenoso,6.6,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.43
+Arcilloso,7.1,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6.1,300,30,53,51,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.8,380,28,66,83,No,No,67,260,Rojo,20,Saludable,0.45
+Arcilloso,6.9,460,22,76,73,Si,No,63,220,Rojo,14,En riesgo,0.41
+Arenoso,6.3,370,26,67,85,No,No,68,260,Rojo,20,Saludable,0.39
+Arcilloso,7.5,440,23,75,75,Si,No,66,220,Rojo,14,En riesgo,0.46
+Limoso,5.6,310,28,52,53,No,Si,45,175,Naranja,11,Enfermo,0.29
+Arenoso,6.8,390,27,68,87,No,No,66,240,Rojo,18,Saludable,0.45
+Arcilloso,7.3,460,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,5.7,290,29,56,47,No,Si,47,160,Amarillo,13,Enfermo,0.33
+Arenoso,6.6,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.43
+Arcilloso,7.1,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6.1,300,30,53,51,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.8,380,28,66,83,No,No,67,260,Rojo,20,Saludable,0.45
+Arcilloso,6.9,460,22,76,73,Si,No,63,220,Rojo,14,En riesgo,0.41
+Limoso,5.6,310,28,52,53,No,Si,45,175,Naranja,11,Enfermo,0.29
+Arenoso,6.9,410,26,69,93,No,No,71,270,Rojo,21,Saludable,0.44
+Arcilloso,7.2,470,23,75,74,Si,No,65,230,Rojo,17,En riesgo,0.44
+Limoso,5.5,320,29,51,54,No,Si,44,180,Amarillo,10,Enfermo,0.29
+Arenoso,6.8,390,27,68,87,No,No,66,240,Rojo,18,Saludable,0.45
+Arcilloso,7.3,460,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,5.8,280,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.34
+Arenoso,6.7,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.44
+Arcilloso,7,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6,290,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.6,380,27,68,87,No,No,63,240,Rojo,18,Saludable,0.43
+Arcilloso,7.4,450,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.47
+Limoso,5.7,290,29,56,47,No,Si,47,160,Amarillo,13,Enfermo,0.33
+Arenoso,6.6,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.43
+Arcilloso,7.1,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6.1,300,30,53,51,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.8,380,28,66,83,No,No,67,260,Rojo,20,Saludable,0.45
+Arcilloso,6.9,460,22,76,73,Si,No,63,220,Rojo,14,En riesgo,0.41
+Limoso,5.6,310,28,52,53,No,Si,45,175,Naranja,11,Enfermo,0.29
+Arenoso,6.9,410,26,69,93,No,No,71,270,Rojo,21,Saludable,0.44
+Arcilloso,7.2,470,23,75,74,Si,No,65,230,Rojo,17,En riesgo,0.44
+Limoso,5.5,320,29,51,54,No,Si,44,180,Amarillo,10,Enfermo,0.29
+Arenoso ,6.5,350,,27,65,,No,,66,Rojo  ,17,En riesgo,0.38
+Arenoso ,6.6,350,,27,65,,No,,67,Rojo  ,18,En riesgo,0.39
+Arcilloso ,7.3,,,23,74,,Si,,55, Rojo ,13,Enfermo ,0.44
+Limoso,5.7,260,30,54,50,No,Si,49,160,Amarillo,10,Enfermo  , 0.31
+Arenoso,,380,,,,,No,,70,,20,Saludable  , 0.40
+Arcilloso,7.6,,,22,76,,Si,,58,Rojo  ,,En riesgo  , 0.46
+Limoso,5.8,270,31,55,60,No,No,53,140,Rojo  ,10,,0.36
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso  ,6.8,,,28,66,,No,,71,Rojo ,21,Saludable ,0.44
+Arcilloso, 7.5,460,,22,76,,Si,,40,Naranja ,7,,0.45
+Limoso,5.9,280,30,56,65,No,Si,55,180,Amarillo ,12,Saludable,0.35
+Arenoso,,400,,,67,,No,,72,Rojo  ,22,Saludable,0.45
+Arcilloso ,7.6,480,,22,77,,Si,,42,,8,En riesgo  ,0.46
+Limoso ,5.10,290,30,57,70,No,Si,60,200,Amarillo  ,,Saludable   ,0.37
+Arenoso , 7.1,,,29,,,No,,73,Rojo  ,23,Enfermo ,
+Arcilloso,7.6,,,22,76,,Si,,58,Rojo  ,,En riesgo  , 0.46
+Limoso,5.8,270,31,55,60,No,No,53,140,Rojo  ,10,,0.36
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso  ,6.8,,,28,66,,No,,71,Rojo ,21,Saludable ,0.44
+Arcilloso, 7.5,460,,22,76,,Si,,40,Naranja ,7,,0.45
+Limoso,5.9,280,30,56,65,No,Si,55,180,Amarillo ,12,Saludable,0.35
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso  ,6.8,,,28,66,,No,,71,Rojo ,21,Saludable ,0.44
+Limoso , 5.7,250,29,3,77,No,Si,48,-28,Amarillo ,,Saludable ,0.55
+Arenoso  ,6.9,,,-22,88,,No,,-127,Rojo ,22,Saludable ,0.66
+Limoso,6.1,300,30,53,51,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.8,380,28,66,83,No,No,67,260,Rojo,20,Saludable,0.45
+Arcilloso,6.9,460,22,76,73,Si,No,63,220,Rojo,14,En riesgo,0.41
+Limoso,5.6,310,28,52,53,No,Si,45,175,Naranja,11,Enfermo,0.29
+Arenoso,6.9,410,26,69,93,No,No,71,270,Rojo,21,Saludable,0.44
+Arcilloso,7.2,470,23,75,74,Si,No,65,230,Rojo,17,En riesgo,0.44
+Limoso,5.5,320,29,51,54,No,Si,44,180,Amarillo,10,Enfermo,0.29
+Arenoso,6.8,390,27,68,87,No,No,66,240,Rojo,18,Saludable,0.45
+Arcilloso,7.8,430,21,78,79,Si,No,60,210,Naranja,15,En riesgo,0.46
+Limoso,5.6,330,28,54,55,No,Si,46,180,Rojo,12,Enfermo,0.3
+Arenoso,6.8,420,26,69,86,No,No,65,240,Amarillo,19,Saludable,0.44
+Arcilloso,7.5,480,23,76,75,Si,No,68,230,Rojo,16,En riesgo,0.47
+Limoso,5.7,300,29,57,48,No,Si,49,165,Naranja,13,Enfermo,0.34
+Arenoso,6.7,430,26,68,90,No,No,68,250,Amarillo,20,Saludable,0.42
+Arcilloso,7.2,470,22,75,73,Si,No,62,220,Rojo,17,En riesgo,0.42
+Limoso,6.2,310,30,52,52,No,Si,53,175,Amarillo,14,Enfermo,0.35
+Arenoso,6.9,400,27,67,88,No,No,66,245,Rojo,18,Saludable,0.45
+Arcilloso,7.4,440,24,74,74,Si,No,64,225,Naranja,15,En riesgo,0.47
+Limoso,5.5,320,29,51,53,No,Si,48,170,Rojo,11,Enfermo,0.29
+Arenoso,6.6,410,28,66,89,No,No,67,255,Amarillo,21,Saludable,0.44
+Arcilloso,7.1,450,23,73,72,Si,No,61,215,Rojo,16,En riesgo,0.43
+Limoso,6.3,330,30,53,51,No,Si,55,185,Naranja,12,En riesgo,0.36
+Arenoso,6.8,430,27,68,90,No,No,66,245,Rojo,19,Saludable,0.45
+Arcilloso,7.3,470,24,75,73,Si,No,63,225,Rojo,17,En riesgo,0.47
+Limoso,5.8,310,29,56,49,No,Si,50,170,Amarillo,13,Enfermo,0.34
+Arenoso,6.7,420,26,67,87,No,No,67,240,Rojo,18,Saludable,0.42
+Arcilloso,7.2,460,22,74,72,Si,No,62,220,Naranja,15,En riesgo,0.42
+Limoso,6.4,340,30,54,50,No,Si,56,190,Rojo,12,En riesgo,0.37
+Arenoso,6.9,400,27,68,88,No,No,66,245,Rojo,19,Saludable,0.45
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso  ,6.8,,,28,66,,No,,71,Rojo ,21,Saludable ,0.44
+Arcilloso, 7.5,460,,22,76,,Si,,40,Naranja ,7,,0.45
+Limoso,5.9,280,30,56,65,No,Si,55,180,Amarillo ,12,Saludable,0.35
+Arenoso,,400,,,67,,No,,72,Rojo  ,22,Saludable,0.45
+Arcilloso ,7.6,480,,22,77,,Si,,42,,8,En riesgo  ,0.46
+Limoso ,5.10,290,30,57,70,No,Si,60,200,Amarillo  ,,Saludable   ,0.37
+Arenoso , 7.1,,,29,,,No,,73,Rojo  ,23,Enfermo ,
+Arcilloso,7.6,,,22,76,,Si,,58,Rojo  ,,En riesgo  , 0.46
+Limoso,5.8,270,31,55,60,No,No,53,140,Rojo  ,10,,0.36
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso  ,6.8,,,28,66,,No,,71,Rojo ,21,Saludable ,0.44
+Arcilloso, 7.5,460,,22,76,,Si,,40,Naranja ,7,,0.45
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso  ,6.8,,,28,66,,No,,71,Rojo ,21,Saludable ,0.44
+Arcilloso, 7.5,460,,22,76,,Si,,40,Naranja ,7,,0.45
+Limoso,5.9,280,30,56,65,No,Si,55,180,Amarillo ,12,Saludable,0.35
+Arenoso,,400,,,67,,No,,72,Rojo  ,22,Saludable,0.45
+Arcilloso ,7.6,480,,22,77,,Si,,42,,8,En riesgo  ,0.46
+Limoso ,5.10,290,30,57,70,No,Si,60,200,Amarillo  ,,Saludable   ,0.37
+Arenoso , 7.1,,,29,,,No,,73,Rojo  ,23,Enfermo ,
+Arcilloso,7.6,,,22,76,,Si,,58,Rojo  ,,En riesgo  , 0.46
+Limoso,5.8,270,31,55,60,No,No,53,140,Rojo  ,10,,0.36
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso  ,6.8,,,28,66,,No,,71,Rojo ,21,Saludable ,0.44
+Arcilloso, 7.5,460,,22,76,,Si,,40,Naranja ,7,,0.45
+Limoso,5.5,320,29,51,53,No,Si,48,170,Rojo,11,Enfermo,0.29
+Arenoso,6.6,410,28,66,89,No,No,67,255,Amarillo,21,Saludable,0.44
+Arcilloso,7.1,450,23,73,72,Si,No,61,215,Rojo,16,En riesgo,0.43
+Limoso,6.3,330,30,53,51,No,Si,55,185,Naranja,12,En riesgo,0.36
+Arenoso,6.8,430,27,68,90,No,No,66,245,Rojo,19,Saludable,0.45
+Arcilloso,7.3,470,24,75,73,Si,No,63,225,Rojo,17,En riesgo,0.47
+Limoso,5.8,310,29,56,49,No,Si,50,170,Amarillo,13,Enfermo,0.34
+Arenoso,6.7,420,26,67,87,No,No,67,240,Rojo,18,Saludable,0.42
+Arcilloso,7.2,460,22,74,72,Si,No,62,220,Naranja,15,En riesgo,0.42
+Limoso,6.4,340,30,54,50,No,Si,56,190,Rojo,12,En riesgo,0.37
+Arenoso,6.9,400,27,68,88,No,No,66,245,Rojo,19,Saludable,0.45
+Arcilloso,7.4,440,24,74,74,Si,No,64,225,Naranja,16,En riesgo,0.47
+Limoso,5.5,320,29,51,53,No,Si,48,170,Rojo,11,Enfermo,0.29
+Arenoso,6.6,410,28,66,89,No,No,67,255,Amarillo,21,Saludable,0.44
+Arcilloso,7.1,450,23,73,72,Si,No,61,215,Rojo,16,En riesgo,0.43
+Limoso,6.3,330,30,53,51,No,Si,55,185,Naranja,12,En riesgo,0.36
+Arenoso,6.8,430,27,68,90,No,No,66,245,Rojo,19,Saludable,0.45
+Arcilloso,7.3,470,24,75,73,Si,No,63,225,Rojo,17,En riesgo,0.47
+Limoso,5.8,310,29,56,49,No,Si,50,170,Amarillo,13,Enfermo,0.34
+Arenoso,6.7,420,26,67,87,No,No,67,240,Rojo,18,Saludable,0.42
+Arcilloso,7.2,460,22,74,72,Si,No,62,220,Naranja,15,En riesgo,0.42
+Limoso,6.4,340,30,54,50,No,Si,56,190,Rojo,12,En riesgo,0.37
+Arenoso,6.9,400,27,68,88,No,No,66,245,Rojo,19,Saludable,0.45
+Arcilloso,7.4,440,24,74,74,Si,No,64,225,Naranja,16,En riesgo,0.47
+Limoso,5.5,320,29,51,53,No,Si,48,170,Rojo,11,Enfermo,0.29
+Arenoso,6.3,390,27,65,80,No,No,64,235,Rojo,18,Saludable,0.39
+Arcilloso,7.1,410,23,72,70,Si,No,59,215,Naranja,14,En riesgo,0.42
+Limoso,5.8,330,29,53,52,No,Si,51,175,Amarillo,12,Enfermo,0.32
+Arenoso,6.7,420,26,66,86,No,No,67,245,Rojo,19,Saludable,0.41
+Arcilloso,7.2,450,24,73,72,Si,No,62,225,Rojo,16,En riesgo,0.45
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso  ,6.8,,,28,66,,No,,71,Rojo ,21,Saludable ,0.44
+Arcilloso, 7.5,460,,22,76,,Si,,40,Naranja ,7,,0.45
+Limoso,5.9,280,30,56,65,No,Si,55,180,Amarillo ,12,Saludable,0.35
+Arenoso,,400,,,67,,No,,72,Rojo  ,22,Saludable,0.45
+Arcilloso ,7.6,480,,22,77,,Si,,42,,8,En riesgo  ,0.46
+Limoso ,5.10,290,30,57,70,No,Si,60,200,Amarillo  ,,Saludable   ,0.37
+Arenoso , 7.1,,,29,,,No,,73,Rojo  ,23,Enfermo ,
+Arcilloso,7.6,,,22,76,,Si,,58,Rojo  ,,En riesgo  , 0.46
+Limoso,5.8,270,31,55,60,No,No,53,140,Rojo  ,10,,0.36
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso  ,6.8,,,28,66,,No,,71,Rojo ,21,Saludable ,0.44
+Arcilloso, 7.5,460,,22,76,,Si,,40,Naranja ,7,,0.45
+Arenoso  ,6.9,,,16,86,,No,,9,Rojo ,-7,Saludable ,0.46
+Arcilloso, 7.6,460,,10,96,,Si,,-22,Naranja ,-21,,0.47
+Arenoso,6.8,390,27,68,87,No,No,66,240,Rojo,18,Saludable,0.45
+Arcilloso,7.3,460,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,5.8,280,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.34
+Arenoso,6.7,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.44
+Arcilloso,7,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6,290,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arcilloso,7.6,470,22,76,73,Si,No,63,220,Rojo,14,En riesgo,0.45
+Limoso,5.5,320,28,51,54,No,Si,44,175,Amarillo,11,Enfermo,0.28
+Arenoso,6.8,400,27,68,87,No,No,66,240,Rojo,18,Saludable,0.45
+Arcilloso,7.3,460,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,5.7,290,29,56,47,No,Si,47,160,Amarillo,13,Enfermo,0.33
+Arenoso,6.6,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.43
+Arcilloso,7.1,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6.1,300,30,53,51,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.8,380,28,66,83,No,No,67,260,Rojo,20,Saludable,0.45
+Arcilloso,6.9,460,22,76,73,Si,No,63,220,Rojo,14,En riesgo,0.41
+Limoso,5.6,310,28,52,53,No,Si,45,175,Amarillo,11,Enfermo,0.29
+Arenoso,6.9,410,26,69,93,No,No,71,270,Rojo,21,Saludable,0.44
+Arcilloso,7.2,470,23,75,74,Si,No,65,230,Rojo,17,En riesgo,0.44
+Limoso,5.5,320,29,51,54,No,Si,44,180,Amarillo,10,Enfermo,0.29
+Arenoso,6.8,390,27,68,87,No,No,66,240,Rojo,18,Saludable,0.45
+Arcilloso,7.3,460,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,5.8,280,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.34
+Arenoso,6.7,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.44
+Arcilloso,7,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6,290,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.6,380,27,68,87,No,No,63,240,Rojo,18,Saludable,0.43
+Arcilloso,7.4,450,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.47
+Limoso,5.7,290,29,56,47,No,Si,47,160,Amarillo,13,Enfermo,0.33
+Arenoso,6.6,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.43
+Arcilloso,7.1,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Arenoso  ,6.8,,,28,66,,No,,71,Rojo ,21,Saludable ,0.44
+Arcilloso, 7.5,460,,22,76,,Si,,40,Naranja ,7,,0.45
+Limoso,5.9,280,30,56,65,No,Si,55,180,Amarillo ,12,Saludable,0.35
+Arenoso,,400,,,67,,No,,72,Rojo  ,22,Saludable,0.45
+Arcilloso ,7.6,480,,22,77,,Si,,42,,8,En riesgo  ,0.46
+Limoso ,5.10,290,30,57,70,No,Si,60,200,Amarillo  ,,Saludable   ,0.37
+Arenoso , 7.1,,,29,,,No,,73,Rojo  ,23,Enfermo ,
+Arcilloso,7.6,,,22,76,,Si,,58,Rojo  ,,En riesgo  , 0.46
+Limoso,5.8,270,31,55,60,No,No,53,140,Rojo  ,10,,0.36
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arcilloso,6.9,460,22,76,73,Si,No,63,220,Rojo,14,En riesgo,0.41
+Limoso,5.6,310,28,52,53,No,Si,45,175,Naranja,11,Enfermo,0.29
+Arenoso,6.9,410,26,69,93,No,No,71,270,Rojo,21,Saludable,0.44
+Arcilloso,7.2,470,23,75,74,Si,No,65,230,Rojo,17,En riesgo,0.44
+Limoso,5.5,320,29,51,54,No,Si,44,180,Amarillo,10,Enfermo,0.29
+Arenoso,6.8,390,27,68,87,No,No,66,240,Rojo,18,Saludable,0.45
+Arcilloso,7.3,460,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,5.8,280,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.34
+Arenoso,6.7,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.44
+Arcilloso,7,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6,290,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.6,380,27,68,87,No,No,63,240,Rojo,18,Saludable,0.43
+Arcilloso,7.4,450,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.47
+Limoso,5.7,290,29,56,47,No,Si,47,160,Amarillo,13,Enfermo,0.33
+Arenoso,6.6,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.43
+Arcilloso,7.1,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6.1,300,30,53,51,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.8,380,28,66,83,No,No,67,260,Rojo,20,Saludable,0.45
+Arenoso,6.3,370,26,67,85,No,No,68,260,Rojo,20,Saludable,0.39
+Arcilloso,7.5,440,23,75,75,Si,No,66,220,Rojo,14,En riesgo,0.46
+Limoso,5.6,310,28,52,53,No,Si,45,175,Naranja,11,Enfermo,0.29
+Arenoso,6.8,390,27,68,87,No,No,66,240,Rojo,18,Saludable,0.45
+Arcilloso,7.3,460,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,5.7,290,29,56,47,No,Si,47,160,Amarillo,13,Enfermo,0.33
+Arenoso,6.6,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.43
+Arcilloso,7.1,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6.1,300,30,53,51,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.8,380,28,66,83,No,No,67,260,Rojo,20,Saludable,0.45
+Arcilloso,6.9,460,22,76,73,Si,No,63,220,Rojo,14,En riesgo,0.41
+Limoso,5.6,310,28,52,53,No,Si,45,175,Naranja,11,Enfermo,0.29
+Arenoso,6.9,410,26,69,93,No,No,71,270,Rojo,21,Saludable,0.44
+Limoso,5.9,280,30,56,65,No,Si,55,180,Amarillo ,12,Saludable,0.35
+Arenoso,,400,,,67,,No,,72,Rojo  ,22,Saludable,0.45
+Arcilloso ,7.6,480,,22,77,,Si,,42,,8,En riesgo  ,0.46
+Limoso ,5.10,290,30,57,70,No,Si,60,200,Amarillo  ,,Saludable   ,0.37
+Arenoso , 7.1,,,29,,,No,,73,Rojo  ,23,Enfermo ,
+Arcilloso,7.6,,,22,76,,Si,,58,Rojo  ,,En riesgo  , 0.46
+Limoso,5.8,270,31,55,60,No,No,53,140,Rojo  ,10,,0.36
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Limoso ,5.10,290,30,57,70,No,Si,60,200,Amarillo  ,,Saludable   ,0.37
+Arenoso , 7.1,,,29,,,No,,73,Rojo  ,23,Enfermo ,
+Arcilloso,7.6,,,22,76,,Si,,58,Rojo  ,,En riesgo  , 0.46
+Limoso,5.8,270,31,55,60,No,No,53,140,Rojo  ,10,,0.36
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Limoso ,5.10,290,30,57,70,No,Si,60,200,Amarillo  ,,Saludable   ,0.37
+Arcilloso,7.4,480,23,75,67,Si,No,64,220,Rojo,15,En riesgo,0.46
+Limoso,5.5,320,29,51,54,No,Si,44,180,Amarillo,11,Enfermo,0.29
+Arenoso,6.9,410,25,71,94,No,No,73,280,Rojo,22,Saludable,0.44
+Arcilloso,6.8,490,22,75,75,Si,No,66,240,Rojo,18,En riesgo,0.4
+Limoso,5.4,330,29,50,55,No,Si,43,185,Naranja,9,Enfermo,0.28
+Arenoso,6.2,360,28,69,84,No,No,68,250,Rojo,20,Saludable,0.43
+Arcilloso,7.5,500,22,76,68,Si,No,61,230,Rojo,16,En riesgo,0.45
+Limoso,5.3,340,30,49,56,No,Si,42,190,Amarillo,10,Enfermo,0.28
+Arenoso,6.7,420,26,72,95,No,No,74,285,Rojo,23,Saludable,0.45
+Arcilloso,6.6,510,22,76,76,Si,No,65,230,Rojo,17,En riesgo,0.39
+Limoso,5.2,350,30,48,57,No,Si,41,195,Naranja,8,Enfermo,0.27
+Arenoso,6.1,390,28,70,85,No,No,68,250,Rojo,20,Saludable,0.43
+Arcilloso,7.6,520,21,78,70,Si,No,60,240,Rojo,18,En riesgo,0.44
+Limoso,5.1,360,30,47,58,No,Si,40,200,Amarillo,8,Enfermo,0.26
+Arenoso,6.5,400,27,73,86,No,No,67,260,Rojo,21,Saludable,0.46
+Arcilloso,6.9,520,22,77,75,Si,No,66,230,Rojo,15,En riesgo,0.42
+Limoso,5,370,30,46,59,No,Si,39,205,Naranja,7,Enfermo,0.25
+Arenoso,6.6,390,27,68,87,No,No,63,240,Rojo,18,Saludable,0.43
+Arcilloso,7.3,460,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Limoso,5.8,280,29,55,52,No,Si,47,160,Amarillo,13,Enfermo,0.33
+Arenoso,6.5,400,27,68,91,No,No,69,250,Rojo,19,Saludable,0.43
+Arcilloso,7,450,23,74,72,Si,No,64,210,Rojo,15,En riesgo,0.43
+Limoso,6,290,29,56,47,No,Si,52,170,Naranja,12,Enfermo,0.35
+Arenoso,6.7,380,28,66,83,No,No,67,260,Rojo,20,Saludable,0.44
+Arcilloso,6.9,470,22,76,73,Si,No,63,220,Rojo,14,En riesgo,0.41
+Limoso,5.7,300,30,53,51,No,Si,49,180,Amarillo,10,Enfermo,0.32
+Arenoso,6.8,410,26,69,93,No,No,71,270,Rojo,21,Saludable,0.44
+Arcilloso,6.8,460,23,75,74,Si,No,65,230,Rojo,17,En riesgo,0.42
+Limoso,5.6,310,28,52,53,No,Si,45,175,Naranja,11,Enfermo,0.29
+Arenoso,6.4,380,26,67,86,No,No,64,240,Rojo,18,Saludable,0.4
+Arcilloso,7.2,450,24,74,76,Si,No,62,230,Rojo,16,En riesgo,0.46
+Arcilloso ,7.6,480,,22,77,,Si,,42,,8,En riesgo  ,0.46
+Limoso ,5.10,290,30,57,70,No,Si,60,200,Amarillo  ,,Saludable   ,0.37
+Arenoso , 7.1,,,29,,,No,,73,Rojo  ,23,Enfermo ,
+Arcilloso,7.6,,,22,76,,Si,,58,Rojo  ,,En riesgo  , 0.46
+Limoso,5.8,270,31,55,60,No,No,53,140,Rojo  ,10,,0.36
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso,7.7,510,21,78,69,Si,No,59,235,Rojo,18,En riesgo,0.45
+Limoso,5.2,360,30,48,57,No,Si,41,185,Naranja,8,Enfermo,0.27
+Arenoso,6.6,420,26,72,95,No,No,74,275,Rojo,24,Saludable,0.44
+Arcilloso,6.7,500,22,76,76,Si,No,65,220,Rojo,16,En riesgo,0.4
+Limoso,5.1,370,30,47,58,No,Si,40,190,Amarillo,9,Enfermo,0.26
+Arenoso,6,380,28,70,85,No,No,68,250,Rojo,20,Saludable,0.42
+Arcilloso,7.8,520,21,79,70,Si,No,58,240,Rojo,19,En riesgo,0.46
+Limoso,5,380,30,46,59,No,Si,39,195,Naranja,7,Enfermo,0.25
+Arenoso,6.5,400,27,73,86,No,No,67,260,Rojo,21,Saludable,0.46
+Arcilloso,6.9,510,22,77,75,Si,No,66,225,Rojo,15,En riesgo,0.42
+Limoso,4.9,390,30,45,60,No,Si,38,200,Amarillo,8,Enfermo,0.24
+Arcilloso ,7.6,480,,22,77,,Si,,42,,8,En riesgo  ,0.46
+Limoso ,5.10,290,30,57,70,No,Si,60,200,Amarillo  ,,Saludable   ,0.37
+Arenoso , 7.1,,,29,,,No,,73,Rojo  ,23,Enfermo ,
+Arcilloso,7.6,,,22,76,,Si,,58,Rojo  ,,En riesgo  , 0.46
+Limoso,5.8,270,31,55,60,No,No,53,140,Rojo  ,10,,0.36
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arenoso,6.4,390,26,67,85,No,No,69,240,Rojo,18,Saludable,0.4
+Arcilloso,7.5,500,23,74,65,Si,No,64,220,Naranja,12,En riesgo,0.46
+Limoso,5.7,270,29,53,60,No,No,53,170,Rojo,11,Enfermo,0.31
+Arenoso,6.2,380,27,65,80,No,No,68,240,Rojo,20,Saludable,0.39
+Arcilloso,7.6,510,22,75,70,Si,Si,39,130,Naranja,7,En riesgo,0.45
+Limoso,6.1,250,29,56,55,No,Si,52,170,Rojo,10,En riesgo,0.35
+Arenoso,6.7,400,25,68,95,No,No,65,250,Rojo,19,Saludable,0.41
+Arcilloso,7.3,460,24,73,75,Si,No,61,220,Rojo,15,En riesgo,0.46
+Limoso,5.6,290,28,55,40,No,Si,44,140,Amarillo,12,Enfermo,0.31
+Arenoso,6.3,370,26,67,85,No,No,63,230,Rojo,17,Saludable,0.39
+Arcilloso,7.2,440,24,73,75,Si,No,60,220,Rojo,15,En riesgo,0.45
+Arcilloso ,7.6,480,,22,77,,Si,,42,,8,En riesgo  ,0.46
+Limoso ,5.10,290,30,57,70,No,Si,60,200,Amarillo  ,,Saludable   ,0.37
+Arenoso , 7.1,,,29,,,No,,73,Rojo  ,23,Enfermo ,
+Arcilloso,7.6,,,22,76,,Si,,58,Rojo  ,,En riesgo  , 0.46
+Limoso,5.8,270,31,55,60,No,No,53,140,Rojo  ,10,,0.36
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Arcilloso ,7.4,450,,23,,,Si,,37,Naranja ,6,En riesgo , 0.45
+Limoso , 5.6,250,29,53,55,No,Si,48,170,Amarillo ,,Saludable ,0.33
+Arenoso,,370,,,65,,No,,69,Rojo ,19,Saludable, 0.41
+Limoso,5.7,260,28,56,45,No,Si,46,150,Naranja,10,Enfermo,0.32
+Arenoso,6.8,400,26,68,95,No,No,68,240,Rojo,18,Saludable,0.43
+Arcilloso,7.2,430,23,72,70,Si,No,62,200,Rojo,14,En riesgo,0.43
+Limoso,5.6,280,28,57,45,No,Si,48,160,Naranja,11,Enfermo,0.32
+Arenoso,6.5,390,27,65,80,No,No,67,250,Rojo,20,Saludable,0.41
+Arcilloso,7.6,500,22,75,70,Si,Si,38,130,Naranja,7,En riesgo,0.45
+Limoso,6,250,29,56,55,No,Si,52,170,Rojo,10,Enfermo,0.35
+Arenoso,6.3,390,26,66,85,No,No,63,230,Rojo,17,Saludable,0.39
+Arcilloso,7.2,470,24,73,75,Si,No,60,220,Rojo,15,En riesgo,0.45
+Limoso,5.8,270,28,54,50,No,Si,45,150,Amarillo,12,Enfermo,0.31
+Arenoso,6.7,400,26,67,90,No,No,68,240,Rojo,18,Saludable,0.42
+Arcilloso,7.1,430,23,73,70,Si,No,62,200,Rojo,14,En riesgo,0.43
+Limoso,5.7,280,28,57,45,No,Si,49,160,Naranja,11,Enfermo,0.32
+Arenoso,6.2,380,27,65,80,No,No,67,250,Rojo,20,Saludable,0.39
+Arcilloso,7.5,490,22,75,70,Si,Si,37,130,Naranja,7,En riesgo,0.44
+Limoso,6.1,260,29,56,55,No,Si,51,170,Rojo,10,En riesgo,0.35
+Arenoso,6.8,410,25,68,95,No,No,66,260,Rojo,19,Saludable,0.41
+Arcilloso,7,440,24,73,70,Si,No,61,210,Rojo,16,En riesgo,0.44
+Limoso,5.6,290,28,55,40,No,Si,44,140,Amarillo,13,Enfermo,0.31
+Arenoso,6.6,390,26,67,85,No,No,69,240,Rojo,18,Saludable,0.41
+Arcilloso,7.4,500,23,74,65,Si,No,64,220,Naranja,12,En riesgo,0.45
+Limoso,6,250,30,53,60,No,No,53,170,Rojo,11,Enfermo,0.34
+Arenoso,6.5,380,27,65,80,No,No,67,240,Rojo,20,Saludable,0.41
+Arcilloso,7.3,460,22,73,75,Si,No,61,220,Rojo,15,En riesgo,0.42
+Limoso,5.9,230,30,54,50,No,Si,48,160,Amarillo,9,Enfermo,0.34
+Arenoso,6.4,370,27,65,80,No,No,68,240,Rojo,19,Saludable,0.4
+Arcilloso,7.6,510,22,75,70,Si,Si,38,130,Naranja,7,En riesgo,0.45
+Limoso,6.2,270,29,56,55,No,Si,52,170,Rojo,10,En riesgo,0.36
+Arenoso,6.9,420,25,67,90,No,No,64,230,Rojo,17,Saludable,0.41
+Arcilloso,7.2,480,24,73,75,Si,No,60,220,Rojo,15,En riesgo,0.45
+Limoso,5.8,280,28,54,50,No,Si,45,150,Amarillo,12,Enfermo,0.31
